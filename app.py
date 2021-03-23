@@ -9,8 +9,8 @@ def homepage():
     return render_template("index.html")
     
 
-@app.route("/predict_sentence",methods=["POST","GET"])
-def predict_sentence():
+@app.route("/translate_sentence",methods=["POST","GET"])
+def translate_sentence():
     return google_translator().translate(request.form.get("sentence"),lang_tgt='en')
 
 

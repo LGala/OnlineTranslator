@@ -1,1 +1,1 @@
-[TRY IT NOW](https://OnlineAnyLanguageToEnglishTranslator.herokuapp.com/)
+[TRY IT NOW](https://onlineanylanguagetoenglishtran.herokuapp.com/)
